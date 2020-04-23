@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-Yuri Krylov built the Пропуск в Москву app as a Commercial app. This SERVICE is provided by Yuri Krylov and is intended for use as is.
+Yuri Krylov built the QRKeepre app as a Commercial app. This SERVICE is provided by Yuri Krylov and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
